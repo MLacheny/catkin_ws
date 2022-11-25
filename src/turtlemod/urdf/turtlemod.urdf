@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<robot name="turtlebot">
+	<link name = "chassis">
+		<visual>
+			<geometry>
+				<cylinder length="1.0" radius="0.5"/>
+			</geometry>
+		</visual>
+	</link>
+</robot>

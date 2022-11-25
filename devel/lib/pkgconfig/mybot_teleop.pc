@@ -1,0 +1,8 @@
+prefix=/home/asus/catkin_ws/devel
+
+Name: mybot_teleop
+Description: Description of mybot_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

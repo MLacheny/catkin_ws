@@ -1,0 +1,8 @@
+prefix=/home/asus/catkin_ws/devel
+
+Name: ecobot
+Description: Description of ecobot
+Version: 0.0.0
+Cflags: -I/home/asus/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

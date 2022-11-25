@@ -1,0 +1,8 @@
+prefix=/home/asus/catkin_ws/devel
+
+Name: esc
+Description: Description of esc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

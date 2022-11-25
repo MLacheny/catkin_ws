@@ -1,0 +1,8 @@
+prefix=/home/asus/catkin_ws/devel
+
+Name: DUCROT_LACHENY
+Description: Description of DUCROT_LACHENY
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
